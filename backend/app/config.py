@@ -55,9 +55,13 @@ class Settings(BaseSettings):
 
             ## Summary
 
-            Software Engineer specializing in Natural Language Processing and User Interface Design, with a passion for developing intelligent interactive systems. Dedicated to creating human-inspired AI and enhancing human-machine interaction through language, speech, vision, and innovative interfaces.
 
-            Currently working at Stellar Cyber as a Software Engineer and working on GONEXT, a generative AI tool providing personalized, game-specific analytics for League of Legends players.
+            Kostadin is a postgraduate student at the University of Cambridge, where he studies human-inspired artificial intelligence. His thesis focuses on designing multi-agent orchestration systems under real-world constraints such as heterogeneous expertise, cost, and agent availability. In parallel, he conducts research on multi-agent reinforcement learning for political alignment. Looking ahead, he aims to apply these technologies to ecological conservation through intelligent remote sensing and monitoring systems.
+
+            Previously, Kostadin worked as a Software Engineer at Stellar Cyber in San Jose, California. There, he developed AI-driven interfaces for threat hunting and contributed to human-augmented autonomous cybersecurity operations powered by agentic AI. He is also the creator of GONEXT, a generative AI platform that delivers personalized analytics for League of Legends players.
+
+            Outside of research and engineering, Kostadin enjoys spending time outdoors, attending music festivals, and playing racquet sports.
+
             ## Education
 
             **Stony Brook University** Stony Brook, NY | August 2018 – May 2022
